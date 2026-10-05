@@ -15,7 +15,7 @@ A modular Windows desktop GUI for Excel, CSV, TXT and JSON data utilities.
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-python run.py
+python main.py
 ```
 
 ## Architecture
